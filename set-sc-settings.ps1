@@ -9,8 +9,8 @@ $ErrorActionPreference = "Stop"
 #############################################################################
 
 # Set these to the appropriate values
-# $sc_path = "X:\Games\StarCitizen\StarCitizen\LIVE\"
-$sc_path = "X:\Games\StarCitizen\StarCitizen\PTU\"
+$sc_path = "X:\Games\StarCitizen\StarCitizen\LIVE\"
+#$sc_path = "X:\Games\StarCitizen\StarCitizen\PTU\"
 $sc_profile_path = (Join-Path -Path $sc_path -ChildPath "USER\Client\0\Profiles\default")
 
 # Custom control mappings
