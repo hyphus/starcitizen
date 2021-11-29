@@ -83,7 +83,7 @@ foreach ($key in $settings.Keys) {
 # Load exported keybindings directly into current config
 [xml]$actionmaps = Get-Content -Path (Join-Path -Path $sc_profile_path -ChildPath "actionmaps.xml")
 [xml]$keybinds = Get-Content -Path $control_mapping_file_path
-foreach($bind in $keybinds.ActionMaps.actionmap) {
+foreach ($bind in $keybinds.ActionMaps.actionmap) {
     $actionmaps.ActionMaps.ActionProfiles.AppendChild($actionmaps.ImportNode($bind, $true)) | Out-Null
 }
 
@@ -95,6 +95,11 @@ foreach ($bind in $keybinds.ActionMaps.options) {
             ($actionmaps.ActionMaps.ActionProfiles.SelectNodes("//options[@type='$($bind.type)'][@instance='$($bind.instance)']")).AppendChild($actionmaps.ImportNode($child, $true)) | Out-Null
         }
     }
+}
+
+# Loads device specific options directly into current config
+foreach ($deviceopt in $keybinds.ActionMaps.deviceoptions) {
+    $actionmaps.ActionMaps.AppendChild($actionmaps.ImportNode($deviceopt, $true)) | Out-Null
 }
 
 # Save everything
