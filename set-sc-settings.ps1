@@ -14,7 +14,7 @@ $sc_path = "X:\Games\StarCitizen\StarCitizen\LIVE\"
 $sc_profile_path = (Join-Path -Path $sc_path -ChildPath "USER\Client\0\Profiles\default")
 
 # Custom control mappings
-$control_mapping_file_path = "X:\Games\StarCitizen\Settings\layout_hotas_exported.xml"
+$control_mapping_file_path = "X:\Games\StarCitizen\Settings\layout_hosas_exported.xml"
 
 # USER.cfg
 $usercfg = @'
