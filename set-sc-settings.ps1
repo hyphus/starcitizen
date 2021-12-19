@@ -11,7 +11,9 @@ $ErrorActionPreference = "Stop"
 # Set these to the appropriate values
 $sc_path = "X:\Games\StarCitizen\StarCitizen\LIVE\"
 # $sc_path = "X:\Games\StarCitizen\StarCitizen\PTU\"
+
 $sc_profile_path = (Join-Path -Path $sc_path -ChildPath "USER\Client\0\Profiles\default")
+$joy_to_key_path = (Join-Path -Path $env:USERPROFILE -ChildPath "Documents\JoyToKey")
 
 # Custom control mappings
 $control_mapping_file_path = "X:\Games\StarCitizen\Settings\layout_hosas_exported.xml"
@@ -97,10 +99,11 @@ foreach ($bind in $keybinds.ActionMaps.options) {
     }
 }
 
-# Loads device specific options directly into current config
-# foreach ($deviceopt in $keybinds.ActionMaps.deviceoptions) {
-#     $actionmaps.ActionMaps.AppendChild($actionmaps.ImportNode($deviceopt, $true)) | Out-Null
-# }
+# JoyToKey configs
+Copy-Item -Force -Path "joytokey/*" -Destination $joy_to_key_path
+
+# Saved camera views
+Copy-Item -Force -Path "savedviews.xml" -Destination (Join-Path -Path $sc_profile_path -ChildPath "savedviews.xml")
 
 # Save everything
 $usercfg | Out-File -FilePath (Join-Path -Path $sc_path -ChildPath "USER.cfg") -Encoding utf8
