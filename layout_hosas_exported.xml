@@ -21,7 +21,9 @@
   <flight_move_strafe_longitudinal invert="1"/>
  </options>
  <options type="joystick" instance="2" Product=" VKB-Sim Gladiator NXT R   {0200231D-0000-0000-0000-504944564944}">
-  <flight_move_strafe_longitudinal invert="1"/>
+  <flight_move_strafe_vertical exponent="2.5"/>
+  <flight_move_strafe_lateral exponent="2.5"/>
+  <flight_move_strafe_longitudinal invert="1" exponent="1.5"/>
  </options>
  <modifiers />
  <actionmap name="seat_general">
