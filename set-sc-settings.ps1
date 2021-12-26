@@ -62,6 +62,7 @@ $settings = @{
     SysSpecShading                        = 3
     SysSpecShadows                        = 3
     SysSpecWater                          = 3
+    VelocityIndicatorDisplayMode          = 0
     VSync                                 = 0
     WindowMode                            = 2
 }
