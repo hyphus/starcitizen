@@ -153,4 +153,12 @@
   <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-18.092279,0,-3.7237906" Distance="100.74783" TargetOffset="1.8128809583575793,92.365194444800537,-26.361973827321194" LensSize="2" FStop="11"/>
   <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="-23.546919,0,-1.025563" Distance="97.944611" TargetOffset="1.7438816455155832,89.022237774668113,-36.536371735570192" LensSize="2" FStop="11"/>
  </Group>
+ <Group ID="Seat (SCItem) - ANVL_Hurricane">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.649492,0,-0.094484501" Distance="39.999996" TargetOffset="0.014144931174547534,8.5775358487802436,-2.4028832312914514" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.893761,0,0.69654107" Distance="39.999996" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="5.4938927,0,-179.53445" Distance="37.056129" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="39.999996" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="-11.981176219773396,9.3150878773395966,-4.7635412614095944" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="13.064388437722833,9.3146692704344556,-4.7635412614095944" LensSize="2" FStop="11"/>
+ </Group>
 </SavedViews>
