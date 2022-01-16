@@ -37,6 +37,7 @@ $settings = @{
     AudioShipComputerSpeechVolume         = 0.5
     AudioSimulationAnnouncerVolume        = 0.5
     AudioSpeechVolume                     = 0.5
+    AutoZoomOnSelectedTarget              = 0
     Brightness                            = 0.55
     ChromaticAberration                   = 0
     Contrast                              = 0.55
