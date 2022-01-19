@@ -170,4 +170,14 @@
   <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="13.064388437722833,9.3146692704344556,-4.7635412614095944" LensSize="2" FStop="11"/>
   <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-3.5312808,0,-179.16223" Distance="37.056129" TargetOffset="0.54299135331270287,-28.196291779025486,-4.1221578320454162" LensSize="2" FStop="11"/>
  </Group>
+ <Group ID="Seat (SCItem) - ANVL_Terrapin">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.826133,0,-0.075824723" Distance="13" TargetOffset="0.058083316152760356,-14.773721215729989,4.2090578844805782" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.999908,0,-0.1337487" Distance="29.732256" TargetOffset="-6.9760865210437826e-55,-5.2713694099700343e-52,1.4942456781338167e-52" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="4.3868699,0,0.33884263" Distance="29.732256" TargetOffset="-6.9760865210437826e-55,-5.2713694099700343e-52,1.4942456781338167e-52" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-0.78155327,0,-179.38153" Distance="29.732256" TargetOffset="-6.9760865210437826e-55,-5.2713694099700343e-52,1.4942456781338167e-52" LensSize="1" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="4.3868699,0,0.33884263" Distance="13.000002" TargetOffset="-6.939893148470345,-1.0606576846312801,-4.432704365589184" LensSize="1" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="4.3868699,0,0.33884263" Distance="13.000002" TargetOffset="6.7167622983292681,-0.97989239047778864,-4.4327043689364602" LensSize="1" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-26.105019,0,-178.76424" Distance="13" TargetOffset="0.30427883905171732,-4.5655803904037215,-6.5574923799545735" LensSize="1" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-33.606342,0,88.518562" Distance="13" TargetOffset="-11.726276582823703,0.54488254870714214,-8.3476698456744263" LensSize="1" FStop="11"/>
+ </Group>
 </SavedViews>
