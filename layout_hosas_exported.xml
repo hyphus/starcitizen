@@ -1381,12 +1381,14 @@
    <rebind input="js2_ "/>
   </action>
   <action name="headtrack_enabled">
+   <rebind input="kb1_pgup"/>
    <rebind input="js2_ "/>
   </action>
   <action name="headtrack_hold">
    <rebind input="js2_ "/>
   </action>
   <action name="headtrack_recenter_device">
+   <rebind input="kb1_pgdn"/>
    <rebind input="js2_ "/>
   </action>
  </actionmap>

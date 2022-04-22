@@ -23,7 +23,7 @@ $usercfg = @'
 ;This is a command that used to unlock the console to allow commands
 Con_Restricted = 0
 
-r_displayinfo = 1
+r_displayinfo = 0
 
 sys_maxFPS = 144
 sys_maxIdleFPS = 60
@@ -50,6 +50,11 @@ $settings = @{
     FlightSpacebrakeEnablesBoost          = 1
     FOV                                   = 67.6728 # This is 100 in the UI settings
     Gamma                                 = 0.85
+    HeadtrackingDisableDuringIM           = 1
+    HeadtrackingDisableDuringMobiGlas     = 1
+    HeadtrackingInactivityTime            = 2
+    HeadtrackingSource                    = 3
+    HeadtrackingToggle                    = 1
     MotionBlur                            = 0
     Sharpening                            = 0
     ShowHints                             = 0
@@ -63,6 +68,15 @@ $settings = @{
     SysSpecShading                        = 3
     SysSpecShadows                        = 3
     SysSpecWater                          = 3
+    TobiiGazeResponsiveness_Profile0      = 0.4
+    TobiiHeadPositionDeadZoneY            = 0.3
+    TobiiHeadPositionDeadZoneZ            = 0.3
+    TobiiHeadPositionScale                = 3.25
+    TobiiHeadSensitivityPitch_Profile0    = 2.8
+    TobiiHeadSensitivityRoll_Profile0     = 1
+    TobiiHeadSensitivityRoll_Profile1     = 1
+    TobiiHeadSensitivityYaw_Profile0      = 3.8
+    TobiiHeadViewAutoCenter_Profile0      = 0
     VelocityIndicatorDisplayMode          = 0
     VSync                                 = 0
     WindowMode                            = 2
