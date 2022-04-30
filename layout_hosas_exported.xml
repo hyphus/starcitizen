@@ -164,6 +164,9 @@
   <action name="v_afterburner">
    <rebind input="js1_button11"/>
   </action>
+  <action name="v_atc_request">
+   <rebind input="js1_hat1_right"/>
+  </action>
   <action name="v_autoland">
    <rebind input="js2_ "/>
   </action>
@@ -1230,11 +1233,6 @@
   </action>
   <action name="spectate_zoom_out">
    <rebind input="js1_ "/>
-  </action>
- </actionmap>
- <actionmap name="default">
-  <action name="toggle_contact">
-   <rebind input="js1_hat1_right"/>
   </action>
  </actionmap>
  <actionmap name="player_emotes">
