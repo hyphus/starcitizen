@@ -23,7 +23,7 @@ $usercfg = @'
 ;This is a command that used to unlock the console to allow commands
 Con_Restricted = 0
 
-r_displayinfo = 0
+r_displayinfo = 1
 
 sys_maxFPS = 144
 sys_maxIdleFPS = 60
@@ -43,6 +43,9 @@ $settings = @{
     Contrast                              = 0.55
     EnableLevelActivatedVoiceTransmission = 0
     EnableFacewareSystemLive              = 0
+    EspDampening                          = 1
+    EspZoneOuter                          = 8
+    EspZoneSize                           = 20
     FilmGrain                             = 0
     FlightGSafeDefaultOn                  = 0
     FlightGSafeDisableOnBoost             = 0
@@ -78,7 +81,14 @@ $settings = @{
     TobiiHeadSensitivityRoll_Profile0     = 1
     TobiiHeadSensitivityRoll_Profile1     = 1
     TobiiHeadSensitivityYaw_Profile0      = 2.7
+    TurretsEspDampening                   = 1
+    TurretsEspZoneOuter                   = 8
+    TurretsEspZoneSize                    = 20
     VelocityIndicatorDisplayMode          = 0
+    VJoySizePitch                         = 8
+    VJoySizeYaw                           = 8
+    VJoyTurretSizePitch                   = 8
+    VJoyTurretSizeYaw                     = 8
     VSync                                 = 0
     WindowMode                            = 2
 }
