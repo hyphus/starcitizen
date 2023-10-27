@@ -25,7 +25,7 @@ Con_Restricted = 0
 
 r_displayinfo = 1
 
-sys_maxFPS = 144
+sys_maxFPS = 175
 sys_maxIdleFPS = 60
 '@
 
@@ -58,7 +58,9 @@ $settings = @{
     HeadtrackingInactivityTime            = 2
     HeadtrackingSource                    = 3
     HeadtrackingToggle                    = 1
+    HDR                                   = 0
     MotionBlur                            = 0
+    ShakeScale                            = 0
     Sharpening                            = 0
     ShowHints                             = 0
     SysSpec                               = 4
@@ -85,11 +87,13 @@ $settings = @{
     TurretsEspZoneOuter                   = 8
     TurretsEspZoneSize                    = 20
     VelocityIndicatorDisplayMode          = 0
+    VelocityIndicatorDisplayType          = 2
     VJoySizePitch                         = 8
     VJoySizeYaw                           = 8
     VJoyTurretSizePitch                   = 8
     VJoyTurretSizeYaw                     = 8
     VSync                                 = 0
+    WeaponGimbalDefaultModeSpaceship      = 0
     WindowMode                            = 2
 }
 
