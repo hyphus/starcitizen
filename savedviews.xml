@@ -722,4 +722,14 @@
   <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="3.9247849,0,-177.16544" Distance="28" TargetOffset="1.4271058844461206,-28.486846392430703,0.42305846044598117" LensSize="1" FStop="11"/>
   <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="-16.332113,0,-0.079905994" Distance="28" TargetOffset="0.060458212107722592,14.117481772231834,-12.957195889391384" LensSize="1" FStop="11"/>
  </Group>
+ <Group ID="Seat (SCItem) - MISC_Hull_C_SCItem_Pilot_Seat">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-19.91412,0,0.11095386" Distance="70" TargetOffset="0.079019962949844758,-49.999999999999922,18.089141401248565" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.999901,0,-0.26011202" Distance="70" TargetOffset="-0.29161407283147317,3.557741945164052,24.999999999999968" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="3.2826576,0,-0.63029313" Distance="70" TargetOffset="0.094068220126835689,-49.999999999999929,8.6906315451359468" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="2.2289996,0,179.86505" Distance="70" TargetOffset="-0.13877998897180713,19.896097728240999,-0.88453934836181902" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="1.7854135,0,179.86766" Distance="70" TargetOffset="-0.24112507815320358,-23.562249204578432,0.80699556001306805" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="1.8776522,0,179.74785" Distance="70" TargetOffset="-0.29343811400001241,-46.211373586235972,1.5130030989764383" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="3.2995746,0,-0.56658798" Distance="70" TargetOffset="0.75100952513940866,9.7157771731919986,3.7825112911335883" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="3.2850795,0,-0.66545439" Distance="70" TargetOffset="0.81572081673910612,15.287183765032438,13.794544648759015" LensSize="2" FStop="11"/>
+ </Group>
 </SavedViews>
