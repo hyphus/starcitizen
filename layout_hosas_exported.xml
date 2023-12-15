@@ -15,7 +15,7 @@
    <category label="@ui_CCFPS"/>
    <category label="@ui_CCVehicle"/>
    <category label="@ui_CGEASpectator"/>
-   <category label="@ui_CGOpticalTracking"/>
+      <category label="@ui_CGOpticalTracking"/>
    <category label="@ui_CGInteraction"/>
   </categories>
  </CustomisationUIHeader>
@@ -24,11 +24,11 @@
   <flight_move_strafe_vertical exponent="3"/>
   <flight_move_strafe_lateral exponent="3"/>
   <flight_strafe_frontback_abs_rel invert="1"/>
- </options>
+   </options>
  <options type="joystick" instance="2" Product=" VKB-Sim Gladiator NXT R    {0200231D-0000-0000-0000-504944564944}">
   <flight_move_strafe_vertical exponent="3"/>
   <flight_move_strafe_lateral exponent="3"/>
-  <flight_strafe_longitudinal_rel invert="1"/>
+    <flight_strafe_longitudinal_rel invert="1"/>
  </options>
  <modifiers />
  <actionmap name="seat_general">
@@ -543,10 +543,13 @@
   <action name="v_salvage_cycle_modifiers_right">
    <rebind input="js1_button1"/>
   </action>
+  <action name="v_salvage_cycle_modifiers_structural">
+   <rebind input="js1_button1"/>
+  </action>
   <action name="v_salvage_decrease_beam_spacing">
    <rebind input="js1_lalt+hat1_down"/>
   </action>
-  <action name="v_salvage_focus_all">
+<action name="v_salvage_focus_all">
    <rebind input="js2_ "/>
   </action>
   <action name="v_salvage_focus_left">
@@ -558,7 +561,7 @@
   <action name="v_salvage_increase_beam_spacing">
    <rebind input="js1_lalt+hat1_up"/>
   </action>
-  <action name="v_salvage_munching_switch_field_mode">
+<action name="v_salvage_munching_switch_field_mode">
    <rebind input="js2_ "/>
   </action>
   <action name="v_salvage_nudge_down__left">
@@ -594,13 +597,10 @@
   <action name="v_salvage_toggle_fire_focused">
    <rebind input="js2_button1"/>
   </action>
-  <action name="v_salvage_toggle_munching_mode">
-   <rebind input="js2_ "/>
-  </action>
  </actionmap>
  <actionmap name="turret_movement">
   <action name="turret_gyromode">
-   <rebind input="js2_ "/>
+   <rebind input="js2_button6"/>
   </action>
   <action name="turret_pitch">
    <rebind input="js2_y"/>
@@ -624,7 +624,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="turret_toggle_mouse_mode">
-   <rebind input="js2_ "/>
+   <rebind input="js2_button8"/>
   </action>
   <action name="turret_yaw">
    <rebind input="js2_x"/>
@@ -638,7 +638,10 @@
  </actionmap>
  <actionmap name="turret_advanced">
   <action name="turret_change_firemode">
-   <rebind input="js2_ "/>
+   <rebind input="js2_button7"/>
+  </action>
+  <action name="turret_esp_toggle">
+   <rebind input="js2_button9"/>
   </action>
   <action name="turret_limiter_abs">
    <rebind input="js2_ "/>
@@ -855,9 +858,6 @@
  </actionmap>
  <actionmap name="spaceship_power">
   <action name="v_power_set_off">
-   <rebind input="js2_ "/>
-  </action>
-  <action name="v_power_set_on">
    <rebind input="js2_ "/>
   </action>
   <action name="v_power_set_shields_off">
@@ -1358,6 +1358,11 @@
    <rebind input="js1_ "/>
   </action>
  </actionmap>
+ <actionmap name="default">
+  <action name="respawn">
+   <rebind input="js1_ "/>
+  </action>
+ </actionmap>
  <actionmap name="player_emotes">
   <action name="emote_agree">
    <rebind input="js2_ "/>
@@ -1537,7 +1542,7 @@
    <rebind input="js2_ "/>
   </action>
   <action name="pc_personal_thought">
-   <rebind input="mo1_f+mouse2"/>
+<rebind input="mo1_f+mouse2"/>
    <rebind input="js2_ "/>
   </action>
   <action name="pc_pit_emotes">
