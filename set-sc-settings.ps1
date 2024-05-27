@@ -13,6 +13,7 @@ $sc_path = "X:\Games\StarCitizen\StarCitizen\LIVE\"
 # $sc_path = "X:\Games\StarCitizen\StarCitizen\PTU\"
 
 $sc_profile_path = (Join-Path -Path $sc_path -ChildPath "USER\Client\0\Profiles\default")
+$sc_character_path = (Join-Path -Path $sc_path -ChildPath "USER\Client\0\CustomCharacters\")
 $joy_to_key_path = (Join-Path -Path $env:USERPROFILE -ChildPath "Documents\JoyToKey")
 
 # Custom control mappings
@@ -49,11 +50,12 @@ $settings = @{
     EspZoneSize                           = 20
     FilmGrain                             = 0
     FlightGSafeDefaultOn                  = 0
-    FlightGSafeDisableOnBoost             = 0
+    FlightGSafeDisableOnBoost             = 1
     FlightProximityAssist                 = 0
     FlightSpacebrakeEnablesBoost          = 1
     FOV                                   = 67.6728 # This is 100 in the UI settings
     Gamma                                 = 0.9
+    GForceHeadBobScale                    = 0.25
     HDR                                   = 0
     HeadtrackingDisableDuringIM           = 1
     HeadtrackingDisableDuringMobiGlas     = 1
@@ -137,6 +139,9 @@ Copy-Item -Force -Path "joytokey/*" -Destination $joy_to_key_path
 
 # Saved camera views
 Copy-Item -Force -Path "savedviews.xml" -Destination (Join-Path -Path $sc_profile_path -ChildPath "savedviews.xml")
+
+# Custom characters
+Copy-Item -Force -Path "characters/*" -Destination $sc_character_path
 
 # Save everything
 $usercfg | Out-File -FilePath (Join-Path -Path $sc_path -ChildPath "USER.cfg") -Encoding utf8
