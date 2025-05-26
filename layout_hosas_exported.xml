@@ -258,6 +258,9 @@
   <action name="v_ifcs_gsafe_on">
    <rebind input="js2_ "/>
   </action>
+  <action name="v_ifcs_speed_limiter_down">
+   <rebind input="js1_hat1_down"/>
+  </action>
   <action name="v_ifcs_speed_limiter_off">
    <rebind input="js2_ "/>
   </action>
@@ -266,6 +269,9 @@
   </action>
   <action name="v_ifcs_speed_limiter_toggle">
    <rebind input="js2_ "/>
+  </action>
+  <action name="v_ifcs_speed_limiter_up">
+   <rebind input="js1_hat1_up"/>
   </action>
   <action name="v_ifcs_throttle_set_normal">
    <rebind input="js2_ "/>
