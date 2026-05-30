@@ -12,12 +12,15 @@
   <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="-3.4277673,0,92.500061" Distance="130.29999" TargetOffset="-132.09986614259898,5.1032392529252499,-28.205598459793706" LensSize="5" FStop="11"/>
  </Group>
  <Group ID="Seat (SCItem) - ARGO_RAFT_SCItem_Seat_Pilot">
-  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.023955,0,0" Distance="42.530785" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.023955,0,0" Distance="42.530785" TargetOffset="5.7642350886866224e-15,-19.744508886052607,5.2993740220487302" LensSize="2" FStop="11"/>
   <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.582764,0,0.74604344" Distance="48.543053" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
   <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.1540731,0,-179.85384" Distance="48.543053" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
   <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="2.1401997,0,0.26954147" Distance="48.543053" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
-  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="6.291182,0,7.1708274" Distance="28.000002" TargetOffset="7.8290842791430846,0.051101372238823717,-2.5902892209987831" LensSize="2" FStop="11"/>
-  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="5.8677425,0,-3.6227045" Distance="28.000002" TargetOffset="-10.609588497541138,-2.5067216820194305,-2.59028922360041" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="2.1401997,0,0.26954147" Distance="48.543053" TargetOffset="-0.23135591720119195,49.178418298691753,-1.8828019097825406" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="2.7329817,0,0.2582691" Distance="48.543053" TargetOffset="-0.26397031688752226,56.111133145171856,1.6235291473587621" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="1.9151044,0,0.2923753" Distance="48.543053" TargetOffset="-0.22945246220137044,48.583348659206223,1.2782349888797149" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="1.9151044,0,0.2923753" Distance="48.543053" TargetOffset="-0.27753059255703144,58.00495117229476,-2.5711267917449483" LensSize="2" FStop="11"/>
+  <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="1.9151044,0,0.2923753" Distance="48.543053" TargetOffset="-4.7481623496400767,58.10372960638918,-2.5670611387784383" LensSize="2" FStop="11"/>
  </Group>
  <Group ID="Seat (SCItem) - ANVL_Valkyrie_SCItem_Seat_Pilot">
   <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="45" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
@@ -196,7 +199,7 @@
   <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="45" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
   <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.966446,0,0.41007063" Distance="55.00502" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
   <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.8385504,0,-179.86633" Distance="45" TargetOffset="6.435441686278432e-11,2.7673958668323542e-12,-6.1070224016911899e-22" LensSize="2" FStop="11"/>
-  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="3.0456936,0,-0.64794737" Distance="45" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="1.6905457,0,0.033866044" Distance="45" TargetOffset="6.435441686278432e-11,2.7673958668323542e-12,-6.1070224016911899e-22" LensSize="2" FStop="11"/>
   <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-4.3231845,0,2.4623873" Distance="45" TargetOffset="-13.542321002475397,12.859578803501412,-5.3059450959821595" LensSize="2" FStop="11"/>
   <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-4.3231845,0,2.4623873" Distance="45" TargetOffset="10.608158678026987,13.898127675289908,-5.3059450963160781" LensSize="2" FStop="11"/>
   <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="2.4605529,0,-179.43044" Distance="45" TargetOffset="0.23423752939571121,-44.222703423781965,-1.5096970194676609" LensSize="2" FStop="11"/>
@@ -354,9 +357,6 @@
   <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
   <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="10.234674641886489,18.35815803242069,-7.3124949141770639" LensSize="2" FStop="11"/>
   <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="-7.0576780664921328,18.358446049440932,-7.3125739242848304" LensSize="2" FStop="11"/>
-  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="1" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
-  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="1" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
-  <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="1" TargetOffset="0,0,0" LensSize="4" FStop="11"/>
  </Group>
  <Group ID="Seat (SCItem) - AEGS_Sabre_Raven_SCItem_Seat_Pilot">
   <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.649492,0,-0.094484501" Distance="27.860676" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
@@ -365,9 +365,6 @@
   <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
   <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="10.234674641886489,18.35815803242069,-7.3124949141770639" LensSize="2" FStop="11"/>
   <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="-7.0576780664921328,18.358446049440932,-7.3125739242848304" LensSize="2" FStop="11"/>
-  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="1" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
-  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="1" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
-  <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="1" TargetOffset="0,0,0" LensSize="4" FStop="11"/>
  </Group>
  <Group ID="Seat (SCItem) - AEGS_Sabre_Firebird_SCItem_Seat_Pilot">
   <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.649492,0,-0.094484501" Distance="27.860676" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
@@ -376,9 +373,6 @@
   <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
   <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="10.234674641886489,18.35815803242069,-7.3124949141770639" LensSize="2" FStop="11"/>
   <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="-7.0576780664921328,18.358446049440932,-7.3125739242848304" LensSize="2" FStop="11"/>
-  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="1" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
-  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="1" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
-  <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="1" TargetOffset="0,0,0" LensSize="4" FStop="11"/>
  </Group>
  <Group ID="Seat (SCItem) - AEGS_Avenger_SCItem_Seat_Pilot">
   <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="36.950787" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
@@ -611,7 +605,7 @@
   <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-5.8667016,0,179.07422" Distance="15" TargetOffset="0.11980564985305157,25.103914594234663,-1.5506487094282941" LensSize="1" FStop="11"/>
   <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-4.1747499,0,178.41296" Distance="15" TargetOffset="-0.37428507118549587,-8.2264586979889511,-4.9825169696643696" LensSize="1" FStop="11"/>
   <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-4.1747499,0,178.41296" Distance="15" TargetOffset="-0.46087889449866981,-11.351923097239803,-5.210739545504417" LensSize="1" FStop="11"/>
-  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-8.755661,0,176.66098" Distance="15" TargetOffset="-0.61491879475132605,-16.984076235762799,-5.6166842404898221" LensSize="1" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-2.5493157,0,177.89476" Distance="15" TargetOffset="-0.63968202555806319,-17.967230117008956,-4.7274211425051007" LensSize="1" FStop="11"/>
   <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-0.12899147,0,-12.99987" Distance="15" TargetOffset="2.0771722153470811,7.2621428218818656,-3.9955224933346467" LensSize="4" FStop="11"/>
  </Group>
  <Group ID="Seat (SCItem) - CRUS_Spirit_Seat_Pilot">
@@ -817,6 +811,7 @@
   <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-4.3231845,0,2.4623873" Distance="45" TargetOffset="8.4313988484469231,33.067433751052548,-6.7608250443092253" LensSize="2" FStop="11"/>
   <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="1.8385504,0,-179.86633" Distance="45" TargetOffset="0.067121089183575108,-28.770363997721333,0.92352496795943007" LensSize="2" FStop="11"/>
   <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="4.1234207,0,-179.90848" Distance="45" TargetOffset="0.10705123661334219,-45.885772757571381,-0.3641093976589671" LensSize="2" FStop="11"/>
+  <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="4.1234207,0,-179.90848" Distance="45" TargetOffset="0.10705123661334219,-45.885772757571381,-0.3641093976589671" LensSize="2" FStop="11"/>
  </Group>
  <Group ID="Seat (SCItem) - RSI_Polaris_Pilot_SCItem_SeatDashboard">
   <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-20.059227,0,0.66471004" Distance="120" TargetOffset="1.8937580445934775e-08,-61.045328699987259,16.357068725734358" LensSize="1" FStop="11"/>
@@ -828,5 +823,395 @@
   <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-19.437738,0,179.85689" Distance="120" TargetOffset="-0.16406794292637708,-56.060952307191336,-40.401134535389076" LensSize="1" FStop="11"/>
   <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-21.649429,0,179.88515" Distance="120" TargetOffset="-0.19187137141763205,-67.072502796550467,-44.253259555576406" LensSize="1" FStop="11"/>
   <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="-84.480179,0,91.474876" Distance="120" TargetOffset="13.224781543177874,39.102290324130387,-59.683908687329989" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - RSI_Apollo_SCItem_SeatDashboard_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-17.574198,0,0.048936855" Distance="81.867165" TargetOffset="0.11039459483674763,-20.494434424818134,5.3724289291098701" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.921875,0,-0.21113963" Distance="125.15972" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="2.1503224,0,-0.10354897" Distance="88.145241" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="2.5333779,0,179.90819" Distance="88.145241" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="2.8401513,0,179.93852" Distance="88.145241" TargetOffset="-0.089554168528662562,-55.810500475809938,-1.4481652391834086" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="3.4546754,0,179.8838" Distance="88.145241" TargetOffset="-0.10349095361189982,-68.802634713637161,-0.80361667331773734" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="2.2853818,0,0.1687109" Distance="88.145241" TargetOffset="-0.20520864567953115,76.056263390887366,-1.7859323045988216" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="3.1134331,0,4.7337046" Distance="88.145241" TargetOffset="-0.083639934332249144,74.623082337670084,-1.8641653674663909" LensSize="2" FStop="11"/>
+  <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="3.1925356,0,-4.6962447" Distance="88.145241" TargetOffset="-0.083639934332249144,74.623082337670084,-1.8641653674663909" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - CRUS_Intrepid_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="40.151016" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.999924,0,0.68645227" Distance="40.151016" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="-2.6107843,0,-0.045718294" Distance="40.151016" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="0.28797552,0,-178.49026" Distance="40.151016" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-2.984566,0,86.452171" Distance="40.151016" TargetOffset="-36.532297351617707,-2.8805486547236101,-3.2609015941437405" LensSize="1" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-5.8204589,0,2.0493565" Distance="40.151016" TargetOffset="-3.4369254862047862,36.536830739121832,-5.4642495614404369" LensSize="1" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-4.6933961,0,2.5893192" Distance="40.151016" TargetOffset="2.4466304304061661,32.495478107356234,-5.1202196008879808" LensSize="1" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-4.6933961,0,2.5893192" Distance="40.151016" TargetOffset="-6.2521354629091928,32.782258366103491,-5.1760033121008382" LensSize="1" FStop="11"/>
+  <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="-3.1914387,0,3.2484071" Distance="40.151016" TargetOffset="-0.97666519155921039,36.239338848463611,-3.4977163311168065" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - RSI_Meteor_SCItem_SeatDashboard_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.649492,0,-0.094484501" Distance="39.999996" TargetOffset="0.014144931174547534,8.5775358487802436,-2.4028832312914514" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.893761,0,0.69654107" Distance="39.999996" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="5.4938927,0,-179.53445" Distance="37.056129" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="39.999996" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="-11.981176219773396,9.3150878773395966,-4.7635412614095944" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="13.064388437722833,9.3146692704344556,-4.7635412614095944" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-3.5312808,0,-179.16223" Distance="37.056129" TargetOffset="0.54299135331270287,-28.196291779025486,-4.1221578320454162" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - RSI_Salvation_SCItem_SeatDashboard">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="4.2943587,0,0.87374049" Distance="24.980284" TargetOffset="0.080340753014882638,-5.267960416942608,-0.39562417737916472" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.999924,0,0.37070119" Distance="24.980284" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="4.2943587,0,0.87374049" Distance="24.980284" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="1.9373906,0,179.76439" Distance="24.980284" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="7.3101826,0,0.3579655" Distance="24.980284" TargetOffset="-0.26018305660385865,17.060258076936762,1.2812268865397731" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - RSI_Perseus_Pilot_SeatDashboard">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="60" TargetOffset="0,-49.542740325119908,13.274935208694586" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.717949,0,-0.029149167" Distance="60" TargetOffset="0.021688473953202548,-6.9124452273107577,59.999990569035184" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.5357589,0,0.47832054" Distance="60" TargetOffset="-0.0061025471769660996,-47.519920391002891,4.2945954450787092" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="3.7920823,0,179.62128" Distance="60" TargetOffset="-0.23411713804039039,32.959610228405111,2.6597509410415645" LensSize="1" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-1.9282267,0,179.46762" Distance="60" TargetOffset="-0.76144879996742409,-49.18196721681619,-5.820909250336352" LensSize="1" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-2.144191,0,179.30505" Distance="60" TargetOffset="-0.81812483945757375,-64.149661718783676,-9.1750691538470122" LensSize="1" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-0.97063076,0,179.18103" Distance="60" TargetOffset="-0.8101251142117244,-61.746474180038923,-5.2070740939970568" LensSize="1" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-1.223842,0,179.56943" Distance="60" TargetOffset="-0.40083174796829885,-33.113491204190318,-4.7219151531446668" LensSize="1" FStop="11"/>
+  <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="-0.59537131,0,179.45676" Distance="60" TargetOffset="-0.63604979911048942,-64.367094637029624,1.6589436746531518" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - DRAK_Clipper_Pilot_Seat">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="75.610245" TargetOffset="-1.713416473320273e-08,-1.1953016926519981e-06,2.4965065976748195e-09" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.991554,0,0.67200476" Distance="79.999985" TargetOffset="-1.713416473320273e-08,-1.1953016926519981e-06,2.4965065976748195e-09" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="2.2613239,0,0.23789932" Distance="75.610245" TargetOffset="-1.713416473320273e-08,-1.1953016926519981e-06,2.4965065976748195e-09" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="0.31964993,0,179.74069" Distance="75.610245" TargetOffset="-1.713416473320273e-08,-1.1953016926519981e-06,2.4965065976748195e-09" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-21.488739,0,178.92151" Distance="59.860672" TargetOffset="-0.98466881754129254,-47.04973395220393,-27.122286609338865" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-20.553465,0,178.98526" Distance="59.860672" TargetOffset="-0.93911708961330564,-44.601831063150321,-23.120687711955576" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-20.8769,0,178.99777" Distance="59.860672" TargetOffset="-0.93706380600531747,-44.541529488028097,-20.247802416932263" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-23.242453,0,178.92409" Distance="59.860672" TargetOffset="-1.0182790682050991,-48.726470871847546,-21.971918899861421" LensSize="2" FStop="11"/>
+  <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="-25.02438,0,177.88911" Distance="56.191559" TargetOffset="-1.1714995069590735,-48.852478875249879,-25.476452789466634" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - XIAN_Nox_SCItem_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-19.716715,0,0.48812309" Distance="9.4017887" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.93264,0,0.14622693" Distance="14.408722" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.775214,0,-0.41475856" Distance="9.4017887" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-1.4731745,0,179.92046" Distance="9.4017887" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - XNAA_SanTokYai_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-40.590576,0,-0.46576789" Distance="16.967796" TargetOffset="0.033667620085963558,-19.631022855779442,14.478236466157568" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.969528,0,1.2064413" Distance="27.528046" TargetOffset="-0.52507804611111308,-5.7483380534245656,24.999999999999979" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="6.1823444,0,0.34076849" Distance="16.969101" TargetOffset="0.037861068484499064,-20.264793764847219,1.3981731239442374" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="11.99077,0,-179.05942" Distance="16.969101" TargetOffset="0.42528081068594931,17.683396361953928,-2.6737821478440345" LensSize="1" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-5.3858838,0,-20.537428" Distance="14.936037" TargetOffset="0.32323926487242666,17.203366015578549,-3.1513033995333597" LensSize="1" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-5.1474762,0,20.826756" Distance="14.935879" TargetOffset="-0.93995666294887015,16.930348213020842,-3.1172085737788153" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - DRAK_Golem_OX_SCItem_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="15" TargetOffset="0,-11.439409782274264,3.0651801391858178" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.843475,0,0.21409011" Distance="15" TargetOffset="-0.041104052397870607,-0.43902763910263809,11.538560731732321" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="-1.9382415,0,0.43580958" Distance="15" TargetOffset="0.00058180189395109735,-11.515897648965357,0.8049417144731088" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="2.0020943,0,178.99673" Distance="15" TargetOffset="-0.37762469330759413,5.934894106336408,0.22842408651392543" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="16.313065,0,-19.883068" Distance="15" TargetOffset="-0.37762469330759413,5.934894106336408,0.22842408651392573" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="16.133375,0,20.485342" Distance="15" TargetOffset="-0.37762469330759413,5.934894106336408,0.22842408651392573" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ESPR_Prowler_Utility_Seat_CoPilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="22" TargetOffset="4.7405802535674727e-05,-22.626633886784532,6.0627888100693585" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.999939,0,0.97509265" Distance="22" TargetOffset="-0.40337993738201178,1.0757833903577729,29.999999934454653" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="5.6363077,0,0.40612718" Distance="22" TargetOffset="-0.0046008827993440464,-23.113485640722693,-0.27583677872189094" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="0.88085639,0,-179.77908" Distance="22" TargetOffset="0.17565890041705934,37.152144452640059,-3.900953663754986" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="0.88085639,0,-179.77908" Distance="22" TargetOffset="0.079632352775631327,-6.2414181234566124,-3.2337858729142308" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="1.6668427,0,92.490395" Distance="22" TargetOffset="-4.3243982264775163,4.4885021574249118,-6.1439424401342873" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-2.7949038,0,-91.603195" Distance="22" TargetOffset="5.2126983704494148,5.4403974961361143,-6.9331859802994709" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-4.5105214,0,1.0061315" Distance="22" TargetOffset="-0.36936875879427755,6.0827337716323688,-6.9331859766088648" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - VNCL_Stinger_SCItem_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-18.182983,0,0.29672891" Distance="49.010906" TargetOffset="0,-16.579373880040436,4.4424291553906246" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.929146,0,0.18998571" Distance="49.010906" TargetOffset="-0.03277935720137657,-6.6939906042381168,24.999990877223162" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="-1.4133242,0,0.26852307" Distance="49.010906" TargetOffset="3.1708199760756152e-14,-16.579373880049967,4.4424291554645432" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="7.7530241,0,-179.40579" Distance="59.999996" TargetOffset="3.1708199760756152e-14,-16.579373880049967,4.4424291554645432" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-1.5404602,0,0.25250971" Distance="49.010906" TargetOffset="-0.21813927977445352,29.965487651656389,-6.2789116616550853" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="7.2132735,0,-179.53993" Distance="57.041855" TargetOffset="0.39682439461215302,-49.999999999999957,4.6320063417331481" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-0.76373571,0,4.4226437" Distance="47.999516" TargetOffset="4.881188458842824,44.215395747128362,-6.1013389979793864" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-0.86468697,0,-17.30953" Distance="49.976078" TargetOffset="4.881188458842824,44.215395747128362,-6.1013389979793864" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - Krig_l21_wolf_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="29.529974" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.894279,0,-0.21228376" Distance="34.999992" TargetOffset="0.0010191943401585031,0.31429314309231132,-0.13503387336532521" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="-1.3122137,0,0.2833721" Distance="29.529974" TargetOffset="-2.394341935575651e-29,-7.3835298277304421e-27,-6.4598891347021126e-28" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="1.6878785,0,-179.82149" Distance="29.529974" TargetOffset="-2.394341935575651e-29,-7.3835298277304421e-27,-6.4598891347021126e-28" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-14.712497,0,-2.9271901" Distance="29.529974" TargetOffset="-0.22975738746110386,25.96615136596742,-6.9749612391441511" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-14.816833,0,3.2162344" Distance="29.529974" TargetOffset="-0.22975738746110386,25.96615136596742,-6.9749612391441511" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-8.7798023,0,4.7213736" Distance="29.529974" TargetOffset="-0.22975738746110386,25.96615136596742,-6.9749612391441511" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-8.5349197,0,-3.5970013" Distance="29.529974" TargetOffset="-0.22975738746110386,25.96615136596742,-6.9749612391441511" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - DRAK_Dragonfly_SCItem_Seat_Pilot_Pink">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="8.998498" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.999962,0,-0.2898519" Distance="11.002881" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.4529437,0,-0.25679511" Distance="8.998498" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-1.2415403,0,-179.83676" Distance="8.998498" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-17.487484,0,-44.280586" Distance="5.3964882" TargetOffset="1.6304797303405312,3.9812978233154888,-1.489965849827088" LensSize="1" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="7.7286534,0,-0.43006936" Distance="8.998498" TargetOffset="0.055385847524769917,9.9999999999999911,0.43846074743989383" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - GLSN_Shiv_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="45" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.966446,0,0.41007063" Distance="55.00502" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.8385504,0,-179.86633" Distance="45" TargetOffset="6.435441686278432e-11,2.7673958668323542e-12,-6.1070224016911899e-22" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="1.6905457,0,0.033866044" Distance="45" TargetOffset="6.435441686278432e-11,2.7673958668323542e-12,-6.1070224016911899e-22" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-4.3231845,0,2.4623873" Distance="45" TargetOffset="-13.542321002475397,12.859578803501412,-5.3059450959821595" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-4.3231845,0,2.4623873" Distance="45" TargetOffset="10.608158678026987,13.898127675289908,-5.3059450963160781" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="2.4605529,0,-179.43044" Distance="45" TargetOffset="0.23423752939571121,-44.222703423781965,-1.5096970194676609" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="2.6402946,0,-179.43292" Distance="45" TargetOffset="0.31311641502993764,-34.143040090583725,-1.9427770168140148" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - GRIN_PTV_SCItem_SeatDashboard_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="2" TargetOffset="0,-5.8133119467951664,1.5576720006847788" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.999981,0,-0.13056393" Distance="2.0000002" TargetOffset="0.084534145890042073,-3.5251366656085659,4.9999999999999956" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="3.4825175,0,179.5222" Distance="2" TargetOffset="0.0233024642560434,7.2916299135303211,-0.49999999999999983" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-2.12309,0,-1.1013454" Distance="4.9373746" TargetOffset="0.11689994015311034,-3.4819106931545303,-0.49999990098381542" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="4.974278,0,-164.1179" Distance="4.9373746" TargetOffset="0.11690245908266429,-3.4817796658903255,-0.49999999999999978" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="5.5345807,0,164.83527" Distance="4.9373746" TargetOffset="0.21333175906578503,-3.4249337462753573,-0.47983457249187644" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="1.6301733,0,-177.03947" Distance="4.9373746" TargetOffset="0.21333175887060052,-3.4249337462224618,-0.47983457249187644" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-0.66016042,0,-2.8061478" Distance="4.9373746" TargetOffset="0.27188532843761809,4.2657851008767107,-0.49514753471030443" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - MISC_Fortune_SCItem_Seat">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="36.454201" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.972214,0,-0.054518398" Distance="39.445057" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="0.18293785,0,-0.091329508" Distance="39.445057" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-0.060221143,0,-179.6528" Distance="39.445057" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-0.24386281,0,-7.8035264" Distance="39.445057" TargetOffset="-6.156600974820603,17.051702216874794,-3.3475298898253394" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-0.22179985,0,3.7791307" Distance="35.349503" TargetOffset="7.2554100363466718,13.965703839145611,-3.347529889901816" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="4.4087563,0,0.36666873" Distance="36.454201" TargetOffset="-0.26051034293966885,26.369899808789555,2.1313892603369475" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="5.8188872,0,0.49637333" Distance="36.702248" TargetOffset="-0.30037955795052435,32.969994363068636,2.6172670753003704" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - MRAI_Guardian_QI_SeatDashboard">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="20" TargetOffset="0,-12.291440029488633,3.2934809205595039" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.999962,0,0.104516" Distance="20" TargetOffset="-0.019195423782485198,-1.7685227853243417,11.354913193413788" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="10.722024,0,-0.0089600496" Distance="20" TargetOffset="-5.6747374855913244e-23,-12.291440029488633,3.2934809205595039" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="3.6813905,0,-178.61511" Distance="20" TargetOffset="-0.031082712187659966,3.4102351423303325,-0.55278686226834373" LensSize="1" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="2.834497,0,-178.55611" Distance="20" TargetOffset="0.49654073815540456,-18.3126358121214,-0.3754891694641137" LensSize="1" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-3.2387898,0,-179.18376" Distance="20" TargetOffset="0.57888969422727043,-21.582069348071826,-2.3665236374399936" LensSize="1" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-4.8942266,0,-178.10927" Distance="20" TargetOffset="0.7033638204257423,-27.590336205296207,-2.718518900124939" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - MRAI_Pulse_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="2" TargetOffset="0,-3.6964198408382951,0.99045255811942656" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.901169,0,0.47950873" Distance="2" TargetOffset="-0.029190479036274013,-0.20821049711711911,4.6378216824242102" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="-4.7142944,0,-176.92401" Distance="2" TargetOffset="0.26246108271677893,5.556002188055662,-0.056227266684728244" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="0.78502321,0,3.5142684" Distance="2" TargetOffset="-0.098246552380194085,-7.0759502831821166,-0.30944642419708318" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ANVL_Ballista_SCItem_Seat_Driver">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.019535,0,0.054533694" Distance="25.984779" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.968937,0,0.23211603" Distance="25.984779" TargetOffset="0.27806278686975222,3.6143694422348864,2.7634981783230241" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="9.9999952,0,-0.39502907" Distance="25.984779" TargetOffset="0.27806278686991676,3.6143694422348864,2.7634981783230241" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="9.998971,0,179.29335" Distance="25.984779" TargetOffset="0.27806278686991676,3.6143694422348864,2.7634981783230241" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="9.0190592,0,-89.306145" Distance="25.984779" TargetOffset="16.900603362364532,1.6005448563057127,1.8286720600988582" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ANVL_Ballista_SCItem_SeatDashboard_Gunner">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.019535,0,0.054533694" Distance="25.984779" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.968937,0,0.23211603" Distance="25.984779" TargetOffset="0.27806278686975222,3.6143694422348864,2.7634981783230241" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="9.9999952,0,-0.39502907" Distance="25.984779" TargetOffset="0.27806278686991676,3.6143694422348864,2.7634981783230241" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="9.998971,0,179.29335" Distance="25.984779" TargetOffset="0.27806278686991676,3.6143694422348864,2.7634981783230241" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="9.0190592,0,-89.306145" Distance="25.984779" TargetOffset="16.900603362364532,1.6005448563057127,1.8286720600988582" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ANVL_Centurion_SCItem_Seat_Driver">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.019535,0,0.054533694" Distance="25.984779" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.968937,0,0.23211603" Distance="25.984779" TargetOffset="0.27806278686975222,3.6143694422348864,2.7634981783230241" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="9.9999952,0,-0.39502907" Distance="25.984779" TargetOffset="0.27806278686991676,3.6143694422348864,2.7634981783230241" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="9.998971,0,179.29335" Distance="25.984779" TargetOffset="0.27806278686991676,3.6143694422348864,2.7634981783230241" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="9.0190592,0,-89.306145" Distance="25.984779" TargetOffset="16.900603362364532,1.6005448563057127,1.8286720600988582" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ANVL_Centurion_SCItem_SeatDashboard_Gunner">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.019535,0,0.054533694" Distance="25.984779" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.968937,0,0.23211603" Distance="25.984779" TargetOffset="0.27806278686975222,3.6143694422348864,2.7634981783230241" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="9.9999952,0,-0.39502907" Distance="25.984779" TargetOffset="0.27806278686991676,3.6143694422348864,2.7634981783230241" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="9.998971,0,179.29335" Distance="25.984779" TargetOffset="0.27806278686991676,3.6143694422348864,2.7634981783230241" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="9.0190592,0,-89.306145" Distance="25.984779" TargetOffset="16.900603362364532,1.6005448563057127,1.8286720600988582" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ANVL_Hornet_F7CM_Mk2_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.649492,0,-0.094484501" Distance="27.860676" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.815742,0,-0.13991788" Distance="29.999998" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="6.1778507,0,-179.69934" Distance="29.999998" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="7.0647226888091232,14.687266386766989,-4.8318206126889152" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="-7.4390518981190619,14.687508800129669,-4.8318206158248458" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ANVL_Gladiator_SCItem_Turret">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.649492,0,-0.094484501" Distance="27.860676" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.815742,0,-0.13991788" Distance="29.999998" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="6.1778507,0,-179.69934" Distance="29.999998" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="7.0647226888091232,14.687266386766989,-4.8318206126889152" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="-7.4390518981190619,14.687508800129669,-4.8318206158248458" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ANVL_Paladin_Pilot_Seat">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-13.440096,0,-0.65242106" Distance="45" TargetOffset="-0.046325919225265313,-19.572363227515485,3.7060545481277556" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.892937,0,-0.35135329" Distance="45" TargetOffset="0.087374643396750398,-1.2560394198219238,39.999967227533588" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="7.9446459,0,-0.026598748" Distance="45" TargetOffset="0.00029830087325229988,-15.325525835044855,1.4538054030390533" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="3.0496798,0,179.51666" Distance="45" TargetOffset="-0.084842183611697652,26.705237571448844,-3.2489973151918905" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="8.4986963,0,0.012323388" Distance="45" TargetOffset="0.02952960185999504,51.311267330331553,3.274732756828985" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="7.7595611,0,-3.4376905" Distance="45" TargetOffset="0.15647344869371857,50.894017227390648,-0.52563327079279276" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="0.73583621,0,88.140625" Distance="43.528133" TargetOffset="-47.526735305911053,1.604178326292097,-7.2556177577628729" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="8.6765213,0,0.74304175" Distance="45" TargetOffset="7.3405550144084222,44.914096580286241,2.1805814413540827" LensSize="2" FStop="11"/>
+  <Slot id="8" Type="OrbitSCItemSeat" CameraRotationAngle="8.6765213,0,0.74304175" Distance="45" TargetOffset="-8.220851043556781,45.657317606755299,2.3247845256170421" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ANVL_Spartan_SCItem_Seat_Driver">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-10.773463,0,0.12692273" Distance="24.608181" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.900581,0,1.1436769" Distance="24.608181" TargetOffset="0.062705761941565658,-4.9832200041327219,4.9726847966727785" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="6.21842,0,0.29574051" Distance="24.608181" TargetOffset="1.9129978985880002e-16,-1.5152081596133463e-14,1.512607366679505e-14" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="3.6718655,0,179.36574" Distance="24.608181" TargetOffset="1.9129978985880064e-16,-1.5152081596133507e-14,1.5126073666795094e-14" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="3.8282564,0,-92.549004" Distance="24.608181" TargetOffset="8.8367931200888705,-0.39523169428200955,0.17466335969811828" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="6.443541,0,88.615768" Distance="12.000001" TargetOffset="3.8699535068834159,1.7791382019095341,0.039728188484353791" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="-4.0399456,0,178.85544" Distance="12.000001" TargetOffset="-0.15406801642777068,-5.8953023314029283,-2.5990542365740326" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-6.6478567,0,178.77498" Distance="12.000001" TargetOffset="-0.23249693921990552,-9.8209432731884228,-2.8763676401275577" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ARGO_ATLS_PowerSuit_SCItem_Seat_Driver">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="6.9997087" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.967796,0,0.35282674" Distance="6.9999948" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="5.8228645,0,-0.50490302" Distance="6.9999948" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="3.7632868,0,-178.90031" Distance="5.7306118" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ARGO_ATLS_GEO_SCItem_Seat_Driver">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="6.9997087" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.967796,0,0.35282674" Distance="6.9999948" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="5.8228645,0,-0.50490302" Distance="6.9999948" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="3.7632868,0,-178.90031" Distance="5.7306118" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ARGO_CSV_Seat_Driver">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.756452,0,0.6715517" Distance="17.820145" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.999977,0,1.0406641" Distance="17.823376" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.2319385,0,0.046826731" Distance="17.823376" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="0.89684623,0,179.27989" Distance="17.823376" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - ARGO_MPUV_1T_SCItem_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-13.898393,0,0.23133385" Distance="17.002131" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.999954,0,0.29341066" Distance="20.011297" TargetOffset="1.9854849558621241e-255,-3.3356853568679677e-253,3.0041881806892036e-255" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="-1.6809409,0,-179.75943" Distance="20.013527" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="2.1653883,0,-0.44286406" Distance="20.013527" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="2.1653883,0,-0.44286406" Distance="20.013527" TargetOffset="4.7051445902067988,10.388475972620798,-0.66797021036671145" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="2.1653883,0,-0.44286406" Distance="20.013527" TargetOffset="-4.1048699650604208,10.456573772292256,-0.66797021038936488" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="0.92033726,0,-179.16756" Distance="20.013527" TargetOffset="0.28234044066588887,-19.769690571012191,-1.6741810487686297" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - CNOU_HoverQuad_SCItem_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-20.850027,0,-0.93433475" Distance="11.034087" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.594627,0,-0.70604533" Distance="13.01805" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.4917792,0,-0.3233895" Distance="11.034087" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-3.6011784,0,178.65852" Distance="11.034087" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - TMBL_Nova_SCItem_Seat_Driver">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-9.8043098,0,0.026996989" Distance="26.200048" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.925522,0,0.66412789" Distance="26.200283" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="4.9274507,0,0.3883175" Distance="26.200048" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="3.0626185,0,179.564" Distance="26.200048" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="3.0088031,0,-178.98012" Distance="26.200048" TargetOffset="-0.17752645414637847,-23.328609871766439,-1.4119398033001922" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - GRIN_ROC_DS_Seat_Driver">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-14.570511,0,-0.14278246" Distance="15.218827" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.828232,0,0.24937707" Distance="15.226629" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.75757,0,-0.68511587" Distance="15.226629" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="0.31067979,0,179.95596" Distance="15.226629" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - GRIN_ROC_DS_Turret_Mining">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-14.570511,0,-0.14278246" Distance="15.218827" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.828232,0,0.24937707" Distance="15.226629" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.75757,0,-0.68511587" Distance="15.226629" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="0.31067979,0,179.95596" Distance="15.226629" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - RSI_Ursa_Rover_SCItem_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.531979,0,1.2396405" Distance="12.86983" TargetOffset="0,-4.9228020483375063,1.3190606294293867" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.8988,0,0.5393315" Distance="12.86983" TargetOffset="0,-4.9228020483375063,1.3190606294293867" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.6261399,0,-0.2298079" Distance="18.4039" TargetOffset="-0.059610278648064001,2.5819022393006792,-0.38637370212880701" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="3.1570973,0,179.3871" Distance="12.86983" TargetOffset="-0.059610278648064001,2.5819022393006792,-0.38637370212880701" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="4.9971972,0,179.14191" Distance="12.86983" TargetOffset="-0.21218636803449803,-11.68137840636253,-0.28918359916799768" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="3.4376872,0,-90.69841" Distance="14.942589" TargetOffset="6.9655174834818636,0.17059379350490525,-0.47498850043286123" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - GRIN_MDC_SCItem_SeatDashboard_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.531979,0,1.2396405" Distance="12.86983" TargetOffset="0,-4.9228020483375063,1.3190606294293867" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.8988,0,0.5393315" Distance="12.86983" TargetOffset="0,-4.9228020483375063,1.3190606294293867" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.6261399,0,-0.2298079" Distance="18.4039" TargetOffset="-0.059610278648064001,2.5819022393006792,-0.38637370212880701" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="3.1570973,0,179.3871" Distance="12.86983" TargetOffset="-0.059610278648064001,2.5819022393006792,-0.38637370212880701" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="3.4376872,0,-90.69841" Distance="14.942589" TargetOffset="6.9655174834818636,0.17059379350490525,-0.47498850043286123" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - GRIN_MXC_SCItem_SeatDashboard_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.531979,0,1.2396405" Distance="12.86983" TargetOffset="0,-4.9228020483375063,1.3190606294293867" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.8988,0,0.5393315" Distance="12.86983" TargetOffset="0,-4.9228020483375063,1.3190606294293867" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.6261399,0,-0.2298079" Distance="18.4039" TargetOffset="-0.059610278648064001,2.5819022393006792,-0.38637370212880701" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="3.1570973,0,179.3871" Distance="12.86983" TargetOffset="-0.059610278648064001,2.5819022393006792,-0.38637370212880701" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="3.4376872,0,-90.69841" Distance="14.942589" TargetOffset="6.9655174834818636,0.17059379350490525,-0.47498850043286123" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - GRIN_ROC_Seat_Driver">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-14.570511,0,-0.14278246" Distance="15.218827" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.828232,0,0.24937707" Distance="15.226629" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="1.75757,0,-0.68511587" Distance="15.226629" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="0.31067979,0,179.95596" Distance="15.226629" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - GRIN_STV_Seat_Driver">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="2" TargetOffset="0,-5.8133119467951664,1.5576720006847788" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.999981,0,-0.13056393" Distance="2.0000002" TargetOffset="0.084534145890042073,-3.5251366656085659,4.9999999999999956" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="3.4825175,0,179.5222" Distance="2" TargetOffset="0.0233024642560434,7.2916299135303211,-0.49999999999999983" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-2.12309,0,-1.1013454" Distance="4.9373746" TargetOffset="0.11689994015311034,-3.4819106931545303,-0.49999990098381542" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="5.1621103,0,-158.67374" Distance="5" TargetOffset="0.11690245908266429,-3.4817796658903255,-0.49999999999999978" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="6.0092173,0,162.05699" Distance="5" TargetOffset="0.21333175906578503,-3.4249337462753573,-0.47983457249187644" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="1.6301733,0,-177.03947" Distance="4.9373746" TargetOffset="0.21333175887060052,-3.4249337462224618,-0.47983457249187644" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-0.66016042,0,-2.8061478" Distance="4.9373746" TargetOffset="0.27188532843761809,4.2657851008767107,-0.49514753471030443" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - TMBL_Cyclone_SCItem_Seat_Driver">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.419448,0,0.61662686" Distance="12.874676" TargetOffset="-9.6802694003530455e-30,-4.0558481035276575e-17,1.0867610559670873e-17" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-44.999981,0,0.12900667" Distance="18.417004" TargetOffset="9.5851462638623275e-17,-3.9970771791925413e-15,5.6693932155712093e-15" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="0.066559359,0,-179.54984" Distance="12.477415" TargetOffset="3.194724552518628e-19,9.9966891298172696e-17,-6.8549070978407572e-18" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-4.8576336,0,-0.5826211" Distance="16.951986" TargetOffset="4.3315909111999378e-29,-1.2901813886579928e-27,-1.8526913049447138e-28" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-0.12001734,0,-136.15602" Distance="5.0000062" TargetOffset="9.4842898060287715e-19,-2.8247658476277881e-17,-4.0564971346419664e-18" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-5.2455435,0,147.88988" Distance="5" TargetOffset="1.2396642159425948e-17,-1.9902183462156973e-16,-2.7883037748115297e-17" LensSize="2" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="1.6301733,0,-177.03947" Distance="4.9373746" TargetOffset="0.21333175887060052,-3.4249337462224618,-0.47983457249187644" LensSize="2" FStop="11"/>
+  <Slot id="7" Type="OrbitSCItemSeat" CameraRotationAngle="-0.66016042,0,-2.8061478" Distance="4.9373746" TargetOffset="0.27188532843761809,4.2657851008767107,-0.49514753471030443" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - TMBL_Storm_SCItem_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.619109,0,0.15639533" Distance="19.047741" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.669983,0,-0.10517344" Distance="21.080984" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="7.3752146,0,-0.14989924" Distance="19.047741" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="5.6597486,0,179.90778" Distance="19.047741" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="12.910376,0,-179.90265" Distance="19.047741" TargetOffset="-0.020548496354343915,-12.769763679607046,1.2655341171965304" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - TMBL_Storm_AA_SCItem_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.619109,0,0.15639533" Distance="19.047741" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.669983,0,-0.10517344" Distance="21.080984" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="7.3752146,0,-0.14989924" Distance="19.047741" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="5.6597486,0,179.90778" Distance="19.047741" TargetOffset="0,0,0" LensSize="1" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="12.910376,0,-179.90265" Distance="19.047741" TargetOffset="-0.020548496354343915,-12.769763679607046,1.2655341171965304" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - AEGS_Sabre_Peregrine_SCItem_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15.649492,0,-0.094484501" Distance="27.860676" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.815742,0,-0.13991788" Distance="29.999998" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="6.1778507,0,-179.69934" Distance="29.999998" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="0,0,0" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="10.234674641886489,18.35815803242069,-7.3124949141770639" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-0.72813594,0,-0.00095763104" Distance="29.999998" TargetOffset="-7.0576780664921328,18.358446049440932,-7.3125739242848304" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - DRAK_Command_Module_SCItem_SeatDashboard_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-14.638313,0,1.1118838" Distance="35" TargetOffset="21.633881491415583,-49.999999999999957,17.227125775545826" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.999947,0,0.039476417" Distance="35" TargetOffset="21.620369548463842,-28.0389161563972,34.999999999999957" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="-84.999947,0,0.039476417" Distance="35" TargetOffset="21.568726951985894,46.914748546002897,34.999999999999957" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="6.2869368,0,1.9188448" Distance="35" TargetOffset="21.533282289562287,-45.236047505772838,-9.2998818618052841" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-22.92581,0,0.18435036" Distance="35" TargetOffset="-0.42933211723326464,-28.466421844244152,5.3168639476415525" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-84.857414,0,-0.76081771" Distance="35" TargetOffset="-0.62417679007887705,-8.8290120966705654,34.99999999999995" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - DRAK_Pitbull_SeatDashboard">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-25.256819,0,-0.81368959" Distance="8" TargetOffset="3.9764157610674372e-27,-10.62361027114636,1.1165864639950061" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.937599,0,0.6798625" Distance="14.999999" TargetOffset="0.20744145719865353,-1.2739825514532095,2.8931437504813862" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="-1.3013996,0,0.63659662" Distance="8" TargetOffset="-0.00032454480570590755,-10.602254880906301,0.32539341647851128" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-0.88261038,0,-178.75783" Distance="14.999999" TargetOffset="0.22775168138903482,7.9346824414627726,-0.096806882101231312" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-1.3013996,0,0.63659662" Distance="8" TargetOffset="-4.0404054534989742,0.33320925177540156,-2.7959626365524524" LensSize="2" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="-1.3013996,0,0.63659662" Distance="8" TargetOffset="4.2972627107412862,0.42585045794959109,-2.7959626365681962" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - RSI_Aurora_Mk2_SeatDashboard_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-15,0,0" Distance="20" TargetOffset="0,-24.999999995376857,7.4416317495622399" LensSize="1" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.916634,0,0.16805187" Distance="20" TargetOffset="-0.058650970877307418,-5.0035383907911903,19.999999999953243" LensSize="1" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="3.3009353,0,-1.1329675" Distance="20" TargetOffset="0.0041995442110727022,-24.787634006045465,3.7591153849944026" LensSize="1" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="0.51460797,0,179.21886" Distance="20" TargetOffset="-0.74368119188854764,6.2103561170846566,-0.11414213297942907" LensSize="1" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="0.50318599,0,-89.341858" Distance="20" TargetOffset="-0.74368119188854764,6.2103561170846566,-0.11414213297942907" LensSize="1" FStop="11"/>
+  <Slot id="5" Type="OrbitSCItemSeat" CameraRotationAngle="10.364646,0,2.6281562" Distance="20" TargetOffset="-0.74368119188854764,6.2103561170846566,-0.11414213297942907" LensSize="1" FStop="11"/>
+  <Slot id="6" Type="OrbitSCItemSeat" CameraRotationAngle="4.1201835,0,177.25278" Distance="20" TargetOffset="-0.98514923787361486,-12.741889468855463,0.024980174508591638" LensSize="1" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - Orig_m80_Seat_Pilot">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-13.714745,0,0.1798445" Distance="20" TargetOffset="0.0015872412621187693,-29.901805205892718,7.2828949216953909" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-80.78093,0,0.029895145" Distance="40.040401" TargetOffset="-0.012730134292382102,-2.4617364255811989,11.736596110474419" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="4.2680039,0,-0.59580553" Distance="20" TargetOffset="0.0074766316490850878,-29.335473453948829,-0.30618121061487225" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="-8.8479824,0,-179.43272" Distance="20" TargetOffset="0.088573185642423696,26.45278848021346,-4.1593860707885026" LensSize="2" FStop="11"/>
+  <Slot id="4" Type="OrbitSCItemSeat" CameraRotationAngle="-9.5712299,0,-178.58321" Distance="20" TargetOffset="0.47218835876516779,-12.292130451745923,-5.4515891575716564" LensSize="2" FStop="11"/>
+ </Group>
+ <Group ID="Seat (SCItem) - MISC_Starlite_SCItem_SeatDashboard">
+  <Slot id="0" Type="OrbitSCItemSeat" CameraRotationAngle="-16,0,0" Distance="35" TargetOffset="0,-36.383538667366658,10.432813213514329" LensSize="2" FStop="11"/>
+  <Slot id="1" Type="OrbitSCItemSeat" CameraRotationAngle="-84.98513,0,-0.56344461" Distance="35" TargetOffset="0.30367509151996525,-5.5043004577393502,34.999999999999936" LensSize="2" FStop="11"/>
+  <Slot id="2" Type="OrbitSCItemSeat" CameraRotationAngle="-3.4155781,0,-0.61047411" Distance="35" TargetOffset="-0.0037859339352020317,-36.738851544510901,4.4792208226604568" LensSize="2" FStop="11"/>
+  <Slot id="3" Type="OrbitSCItemSeat" CameraRotationAngle="1.9368801,0,179.73019" Distance="35" TargetOffset="-0.77469356422634505,33.979354432983747,3.8037004408046258" LensSize="2" FStop="11"/>
  </Group>
 </SavedViews>
