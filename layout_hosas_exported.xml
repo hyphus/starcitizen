@@ -549,6 +549,9 @@
   <action name="v_strafe_vertical">
    <rebind input="js1_rotz"/>
   </action>
+  <action name="v_toggle_jump_request">
+   <rebind input="js2_button1"/>
+  </action>
   <action name="v_toggle_landing_system">
    <rebind input="js1_button13"/>
   </action>
